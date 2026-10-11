@@ -6,7 +6,7 @@ To enable debug mode:
   - For Steam go to your library -> right click Mio -> manage -> local files
   - For GOG go to your library -> right click Mio -> manage installation -> browse files
 
-2. Open Mio and using a controller input this series on the d-pad:
+2. Open Mio and using a controller and input this sequence on the d-pad:
   - ↑  ↓  ↑  ↓  ←  →  ←  →  ↓  ←  ↑  →
   - (up, down, up, down, left, right, left, right, down, left, up, right)
 
